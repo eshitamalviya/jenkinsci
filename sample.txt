@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is CAF7-2171
+
+ Directory of C:\Users\Dell\Desktop\gitproject\jenkinsci1
+
+05/10/2021  08:27 PM    <DIR>          .
+05/10/2021  08:27 PM    <DIR>          ..
+05/07/2021  09:20 PM                11 helloworld.txt
+05/06/2021  07:45 PM                44 jenkins.py
+05/10/2021  08:27 PM                 0 sample.txt
+               3 File(s)             55 bytes
+               2 Dir(s)  54,679,650,304 bytes free
